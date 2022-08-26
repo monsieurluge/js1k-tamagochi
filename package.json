@@ -1,0 +1,27 @@
+{
+  "name": "js1k-tamagochi",
+  "version": "1.0.0",
+  "description": "A Tamagochi game but in 1K",
+  "source": "tamagochi.html",
+  "scripts": {
+    "start": "parcel --port 1234",
+    "tunnel": "lt --port 1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsieurluge/js1k-tamagochi.git"
+  },
+  "keywords": [
+    "tamagochi",
+    "killer-app",
+    "js1k",
+    "AAA"
+  ],
+  "author": "monsieurluge, DylanGauthier",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/monsieurluge/js1k-tamagochi#readme",
+  "devDependencies": {
+    "localtunnel": "^2.0.2",
+    "parcel": "^2.7.0"
+  }
+}
